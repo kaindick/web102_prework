@@ -25,9 +25,9 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-https://drive.google.com/file/d/1uuMmZduAaey0xoWCgAnRo5GE-j1piCJy/view?usp=sharing 
+https://drive.google.com/file/d/1bAcdSSBlWu97Z-9ZHv8aP2y3R4QJ_fT8/view?usp=sharing
 
-GIF created with ...  
+GIF created with Kap.  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,9 +37,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Some challenges include refreshing my memory on certain topics or learning new ones from JS such as manipulating DOM, destructuring and using the spread operator. Although, the mini tutorials and outside resources made learning simpler.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Kristin Indick]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
